@@ -1,13 +1,13 @@
 {
   "objects": {
-    "org.gearvrf.tester.WidgetLibTests.SimpleQuad": {
+    "com.samsungxr.ui.WidgetLibTests.SimpleQuad": {
       "name": "ContentWidget",
       "size": {
         "x": 2,
         "y": 2
       }
     },
-    "org.gearvrf.tester.WidgetLibTests.BackgroundWidget": {
+    "com.samsungxr.ui.WidgetLibTests.BackgroundWidget": {
       "name": "BackgroundWidget",
       "mesh": {
         "id": "sphere_bg.obj"
